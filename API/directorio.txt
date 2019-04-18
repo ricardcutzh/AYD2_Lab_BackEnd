@@ -1,0 +1,2 @@
+SI PASAN LOS CAMBIOS
+docker run -it  -p 8000:8000 -v /home/richard/Documents/Universidad/1S_2019/Analisis2/Backend_Proyecto/API:/home/node --name devel  dev:v1 /bin/ash
